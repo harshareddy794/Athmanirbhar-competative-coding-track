@@ -1,7 +1,8 @@
 DAY 3- MORE PROBLEMS ON ARRAYS   
 Tasks:   
+https://leetcode.com/problems/transpose-matrix/description/ 
+
 https://practice.geeksforgeeks.org/problems/two-repeated-elements/0   
-https://practice.geeksforgeeks.org/problems/make-a-distinct-digit-array/0   
-https://leetcode.com/problems/transpose-matrix/description/   
+https://practice.geeksforgeeks.org/problems/make-a-distinct-digit-array/0     
 https://leetcode.com/problems/find-lucky-integer-in-an-array/   
 https://leetcode.com/problems/toeplitz-matrix/
