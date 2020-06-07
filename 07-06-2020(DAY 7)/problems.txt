@@ -1,0 +1,4 @@
+DAY 7 
+https://leetcode.com/problems/k-diff-pairs-in-an-array/   
+https://leetcode.com/problems/create-target-array-in-the-given-order/   
+https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
