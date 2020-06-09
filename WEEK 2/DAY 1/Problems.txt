@@ -1,0 +1,6 @@
+DAY 1- BASIC MATH 
+tasks: 
+https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ 
+https://leetcode.com/problems/self-dividing-numbers
+https://leetcode.com/problems/spiral-matrix/ 
+https://leetcode.com/problems/spiral-matrix-ii/
